@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/samyaa_api/!svn/ver/147/src/groovy/nayax
+END
+Crumb.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/Crumb.groovy
+END
+SecRoleConstants.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/SecRoleConstants.groovy
+END
+GeoUtil.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/samyaa_api/!svn/ver/476/src/groovy/nayax/GeoUtil.groovy
+END
+LoggingSecurityEventListener.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/LoggingSecurityEventListener.groovy
+END
+DateParser.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/DateParser.groovy
+END
+NayaxBean.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/NayaxBean.groovy
+END

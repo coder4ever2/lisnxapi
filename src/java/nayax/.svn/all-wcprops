@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/samyaa_api/!svn/ver/55/src/java/nayax
+END
+AES.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samyaa_api/!svn/ver/1/src/java/nayax/AES.java
+END
+SessionCounterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/samyaa_api/!svn/ver/1/src/java/nayax/SessionCounterListener.java
+END
+NumberUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/samyaa_api/!svn/ver/1/src/java/nayax/NumberUtils.java
+END
+ParseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/samyaa_api/!svn/ver/55/src/java/nayax/ParseUtil.java
+END
+FacebookPalsCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/samyaa_api/!svn/ver/1/src/java/nayax/FacebookPalsCache.java
+END

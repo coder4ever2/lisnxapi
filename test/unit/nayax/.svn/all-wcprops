@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/samyaa_api/!svn/ver/73/test/unit/nayax
+END
+MessageLikeSpec.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/samyaa_api/!svn/ver/498/test/unit/nayax/MessageLikeSpec.groovy
+END
+FacebookAccessTokenTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/samyaa_api/!svn/ver/73/test/unit/nayax/FacebookAccessTokenTests.groovy
+END
+DirectMessageLikeSpec.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/samyaa_api/!svn/ver/510/test/unit/nayax/DirectMessageLikeSpec.groovy
+END
+UserPhoneSpec.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/samyaa_api/!svn/ver/371/test/unit/nayax/UserPhoneSpec.groovy
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/samyaa_api/!svn/ver/28/src/groovy/nayax/CO
+END
+FacebookUserFriendCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/CO/FacebookUserFriendCommand.groovy
+END
+FacebookUserCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/CO/FacebookUserCommand.groovy
+END
+NayaxUserActivityCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/samyaa_api/!svn/ver/28/src/groovy/nayax/CO/NayaxUserActivityCommand.groovy
+END
+EmailCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/CO/EmailCommand.groovy
+END

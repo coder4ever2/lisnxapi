@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/samyaa_api/!svn/ver/207/grails-app/services/com/lisn/api
+END
+ApiService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/samyaa_api/!svn/ver/664/grails-app/services/com/lisn/api/ApiService.groovy
+END
+ImageService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/samyaa_api/!svn/ver/663/grails-app/services/com/lisn/api/ImageService.groovy
+END
+AdminService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/samyaa_api/!svn/ver/330/grails-app/services/com/lisn/api/AdminService.groovy
+END
+CampaignService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/samyaa_api/!svn/ver/326/grails-app/services/com/lisn/api/CampaignService.groovy
+END

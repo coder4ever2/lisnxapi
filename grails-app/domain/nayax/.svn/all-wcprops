@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/samyaa_api/!svn/ver/207/grails-app/domain/nayax
+END
+LISNxInvitation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/samyaa_api/!svn/ver/104/grails-app/domain/nayax/LISNxInvitation.groovy
+END
+UserLISNMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/447/grails-app/domain/nayax/UserLISNMap.groovy
+END
+ActivityAttendence.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/ActivityAttendence.groovy
+END
+NayaxLiveEvent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/NayaxLiveEvent.groovy
+END
+LISNInvitation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/samyaa_api/!svn/ver/391/grails-app/domain/nayax/LISNInvitation.groovy
+END
+Setting.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/Setting.groovy
+END
+MobileAuthToken.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/samyaa_api/!svn/ver/24/grails-app/domain/nayax/MobileAuthToken.groovy
+END
+LISNMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/498/grails-app/domain/nayax/LISNMessage.groovy
+END
+LISNMessageEvent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samyaa_api/!svn/ver/404/grails-app/domain/nayax/LISNMessageEvent.groovy
+END
+Profile.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/samyaa_api/!svn/ver/510/grails-app/domain/nayax/Profile.groovy
+END
+NayaxUser.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/samyaa_api/!svn/ver/673/grails-app/domain/nayax/NayaxUser.groovy
+END
+SecRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/SecRole.groovy
+END
+PhoneInvitation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/samyaa_api/!svn/ver/374/grails-app/domain/nayax/PhoneInvitation.groovy
+END
+LastViewedEventMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/samyaa_api/!svn/ver/522/grails-app/domain/nayax/LastViewedEventMessage.groovy
+END
+Facebook.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/325/grails-app/domain/nayax/Facebook.groovy
+END
+MuteEventMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samyaa_api/!svn/ver/608/grails-app/domain/nayax/MuteEventMessage.groovy
+END
+PrivateMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/samyaa_api/!svn/ver/665/grails-app/domain/nayax/PrivateMessage.groovy
+END
+FacebookConnection.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/samyaa_api/!svn/ver/82/grails-app/domain/nayax/FacebookConnection.groovy
+END
+EventMessageLike.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samyaa_api/!svn/ver/522/grails-app/domain/nayax/EventMessageLike.groovy
+END
+UserActivityMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/samyaa_api/!svn/ver/673/grails-app/domain/nayax/UserActivityMap.groovy
+END
+EventGoing.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/samyaa_api/!svn/ver/522/grails-app/domain/nayax/EventGoing.groovy
+END
+Picture.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/Picture.groovy
+END
+Linkedin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/617/grails-app/domain/nayax/Linkedin.groovy
+END
+MessageLike.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/498/grails-app/domain/nayax/MessageLike.groovy
+END
+LinkedinConnection.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/samyaa_api/!svn/ver/82/grails-app/domain/nayax/LinkedinConnection.groovy
+END
+Invitee.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/samyaa_api/!svn/ver/30/grails-app/domain/nayax/Invitee.groovy
+END
+PhoneUser.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/samyaa_api/!svn/ver/671/grails-app/domain/nayax/PhoneUser.groovy
+END
+LISN.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/samyaa_api/!svn/ver/634/grails-app/domain/nayax/LISN.groovy
+END
+ConnectionSharingType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/samyaa_api/!svn/ver/30/grails-app/domain/nayax/ConnectionSharingType.groovy
+END
+LinkedinAccessToken.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/samyaa_api/!svn/ver/475/grails-app/domain/nayax/LinkedinAccessToken.groovy
+END
+ProfileShare.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/samyaa_api/!svn/ver/473/grails-app/domain/nayax/ProfileShare.groovy
+END
+MuteLisnMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/samyaa_api/!svn/ver/608/grails-app/domain/nayax/MuteLisnMessage.groovy
+END
+DirectMessageLike.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/samyaa_api/!svn/ver/510/grails-app/domain/nayax/DirectMessageLike.groovy
+END
+FacebookAccessToken.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/samyaa_api/!svn/ver/155/grails-app/domain/nayax/FacebookAccessToken.groovy
+END
+Activity.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/Activity.groovy
+END
+ExternalEvent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/samyaa_api/!svn/ver/560/grails-app/domain/nayax/ExternalEvent.groovy
+END
+Phone.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/samyaa_api/!svn/ver/473/grails-app/domain/nayax/Phone.groovy
+END
+MuteMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/610/grails-app/domain/nayax/MuteMessage.groovy
+END
+LocationCoordinate.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/LocationCoordinate.groovy
+END
+UserEventMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/30/grails-app/domain/nayax/UserEventMap.groovy
+END
+EventMessage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/samyaa_api/!svn/ver/522/grails-app/domain/nayax/EventMessage.groovy
+END
+NConnection.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/samyaa_api/!svn/ver/51/grails-app/domain/nayax/NConnection.groovy
+END
+SecUserSecRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/SecUserSecRole.groovy
+END
+Message.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/Message.groovy
+END
+InvitationCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/InvitationCode.groovy
+END
+NayaxUserActivityDescription.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/NayaxUserActivityDescription.groovy
+END
+Task.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/Task.groovy
+END
+LISNxPushNotification.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/samyaa_api/!svn/ver/637/grails-app/domain/nayax/LISNxPushNotification.groovy
+END
+MuteNotification.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samyaa_api/!svn/ver/563/grails-app/domain/nayax/MuteNotification.groovy
+END
+EventInvite.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/604/grails-app/domain/nayax/EventInvite.groovy
+END
+NayaxEvent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/1/grails-app/domain/nayax/NayaxEvent.groovy
+END

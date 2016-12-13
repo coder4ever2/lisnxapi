@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/samyaa_api/!svn/ver/560/grails-app/views/externalEvent
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/560/grails-app/views/externalEvent/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/samyaa_api/!svn/ver/560/grails-app/views/externalEvent/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/560/grails-app/views/externalEvent/show.gsp
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/samyaa_api/!svn/ver/560/grails-app/views/externalEvent/index.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/samyaa_api/!svn/ver/560/grails-app/views/externalEvent/_form.gsp
+END
+pics.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/593/grails-app/views/externalEvent/pics.gsp
+END

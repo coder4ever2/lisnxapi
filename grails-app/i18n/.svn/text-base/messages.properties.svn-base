@@ -1,0 +1,120 @@
+default.doesnt.match.message=Property [{0}] of class [{1}] with value [{2}] does not match the required pattern [{3}]
+default.invalid.url.message=Property [{0}] of class [{1}] with value [{2}] is not a valid URL
+default.invalid.creditCard.message=Property [{0}] of class [{1}] with value [{2}] is not a valid credit card number
+default.invalid.email.message=Please provide a valid email
+default.invalid.range.message=Property [{0}] of class [{1}] with value [{2}] does not fall within the valid range from [{3}] to [{4}]
+default.invalid.size.message=Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]
+default.invalid.max.message=Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]
+default.invalid.min.message=Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]
+default.invalid.max.size.message=Property [{0}] of class [{1}] with value [{2}] exceeds the maximum size of [{3}]
+default.invalid.min.size.message=Property [{0}] of class [{1}] with value [{2}] is less than the minimum size of [{3}]
+default.invalid.validator.message=Property [{0}] of class [{1}] with value [{2}] does not pass custom validation
+default.not.inlist.message=Property [{0}] of class [{1}] with value [{2}] is not contained within the list [{3}]
+default.blank.message=Property [{0}] of class [{1}] cannot be blank
+default.not.equal.message=Property [{0}] of class [{1}] with value [{2}] cannot equal [{3}]
+default.null.message=Property [{0}] of class [{1}] cannot be null
+default.not.unique.message=Property [{0}] of class [{1}] with value [{2}] must be unique
+
+default.paginate.prev=Previous
+default.paginate.next=Next
+default.boolean.true=True
+default.boolean.false=False
+default.date.format=yyyy-MM-dd HH:mm:ss z
+default.number.format=0
+default.application.label=lisnX
+
+default.created.message={0} {1} created
+default.updated.message={0} {1} updated
+default.deleted.message={0} {1} deleted
+default.not.deleted.message={0} {1} could not be deleted
+default.not.found.message={0} not found with id {1}
+default.optimistic.locking.failure=Another user has updated this {0} while you were editing
+
+default.home.label=Home
+default.list.label=Friends
+default.add.label=Add {0}
+default.new.label=New {0}
+default.create.label=Create
+default.show.label=Show {0}
+default.edit.label=Edit
+default.accountSetting.label=Account Setting
+default.lisnxProfile.label=Lisnx Profile
+default.account.activated = Your account has been activated.
+default.activate.account=Enter your username and we'll send a link to activate your account to the address we have for your account.
+
+rendezvous.menu.label=Rendezvous
+LISN.menu.label=LISNs
+Friends.menu.label=Friends
+LISNs.nearby.label=LISNs nearby
+
+default.button.create.label=Create
+default.button.edit.label=Edit
+default.button.update.label=Update
+default.button.delete.label=Delete
+default.button.delete.confirm.message=Are you sure?
+
+# Data binding errors. Use "typeMismatch.$className.$propertyName to customize (eg typeMismatch.Book.author)
+typeMismatch.java.net.URL=Property {0} must be a valid URL
+typeMismatch.java.net.URI=Property {0} must be a valid URI
+typeMismatch.java.util.Date=Property {0} must be a valid Date
+typeMismatch.java.lang.Double=Property {0} must be a valid number
+typeMismatch.java.lang.Integer=Property {0} must be a valid number
+typeMismatch.java.lang.Long=Property {0} must be a valid number
+typeMismatch.java.lang.Short=Property {0} must be a valid number
+typeMismatch.java.math.BigDecimal=Property {0} must be a valid number
+typeMismatch.java.math.BigInteger=Property {0} must be a valid number
+
+#nayax.NayaxRegisterCommand
+nayaxRegisterCommand.username.blank=Please provide a valid email
+nayaxRegisterCommand.username.email.invalid=Please provide a valid email
+nayaxRegisterCommand.fullName.blank=Please provide your full name
+nayaxRegisterCommand.password.blank=Please provide a valid password
+nayaxRegisterCommand.password2.blank=Password does not match
+nayaxLiveEventController$CreateCommand.inviteeEmails.invalid=Invalid emails in the invite list
+nayaxLiveEventController$CreateCommand.startDate.nullable=Please provide a valid start date & time
+nayaxLiveEventController$CreateCommand.endDate.nullable=Please provide a valid end date & time
+nayaxLiveEventController$CreateCommand.description.blank=Please provide a description
+
+connections.list.label=Your connections
+welcome.label=Welcome
+nayaxLiveEvent.new.label=Publish a rendezvous
+nayaxLiveEvent.list.label=Rendezvuz list
+
+nayax.NayaxUser.username.unique=Email already in use.
+nayax.NayaxUser.fullName.blank=Full Name can not be left blank.
+
+createLISN.name.label = Name
+createLISN.description.label = Description
+createLISN.expiryDateTime.label = Expires In
+createLISN.venue.label = Venue
+createLISN.startDate.label = Start Date
+createLISN.endDate.label = End Date
+createLISN.save.label = Save
+createLISN.cancel.label = Cancel
+createLISN.postOnFacebook.label=Post on Facebook
+lisn.cannot.visit=Sorry you do not have access to see this lisn
+
+nayax.LISN.creator.null.nayax.LISN.creator. = LISN Creator cannot be left NULL
+nayax.LISN.locationCoordinate.null.nayax.LISN.locationCoordinate = Location Coordinate cannot be left NULL
+nayax.LISN.name.null.error.nayax.LISN.name = LISN name cannot be left NULL
+nayax.LISN.name.blank.error.nayax.LISN.name = LISN name cannot be left blank
+nayax.LISN.startDate.nullable.error.nayax.LISN.startDate= LISN startDate cannot be left NULL
+nayax.LISN.startDate.blank.error.nayax.LISN.startDate= LISN startDate cannot be left blank
+nayax.LISN.startDate.lessThanCurrentDate= LISN startDate cannot be less than current date
+nayax.LISN.endDate.nullable.error.nayax.LISN.endDate = LISN endDate cannot be left NULL
+nayax.LISN.endDate.blank.error.nayax.LISN.endDate= LISN endDate cannot be left blank
+nayax.LISN.endDate.lessThanCurrentDate= LISN endDate cannot be less than current date
+nayax.LISN.endDate.lessThanStartDate=LISN endDate cannot be less than start date
+
+nayax.NayaxUser.dateOfBirth.ageMoreThan105Yrs = Age cannot be more than 105 Yrs
+nayax.NayaxUser.dateOfBirth.agelessThan18Yrs = Age cannot be less than 18 Yrs
+nayax.NayaxUser.dateOfBirth.dobGreaterThanCurrentDate = Date of Birth cannot be a future date
+nayax.NayaxUser.dateOfBirth.null.error.nayax.NayaxUser.dateOfBirth = Date of Birth cannot be blank
+profile.cannot.visit=Sorry you do not have access to see this profile
+
+nayax.NayaxRegisterCommand.dateOfBirth.ageMoreThan105Yrs = Age cannot be more than 105 Yrs
+nayax.NayaxRegisterCommand.dateOfBirth.agelessThan18Yrs = Age cannot be less than 18 Yrs
+nayax.NayaxRegisterCommand.dateOfBirth.dobGreaterThanCurrentDate = Date of Birth cannot be a future date
+nayax.NayaxRegisterCommand.dateOfBirth.null.nayax.NayaxRegisterCommand.dateOfBirth= Date of Birth cannot be blank
+nayax.NayaxRegisterCommand.dateOfBirth.blank.nayax.NayaxRegisterCommand.dateOfBirth= Date of Birth cannot be blank
+

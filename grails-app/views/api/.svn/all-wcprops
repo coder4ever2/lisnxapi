@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samyaa_api/!svn/ver/256/grails-app/views/api
+END
+socialStatus.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/samyaa_api/!svn/ver/299/grails-app/views/api/socialStatus.gsp
+END
+promoShare.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/samyaa_api/!svn/ver/330/grails-app/views/api/promoShare.gsp
+END
+vlc-p1.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/samyaa_api/!svn/ver/299/grails-app/views/api/vlc-p1.gsp
+END
+mailer.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/samyaa_api/!svn/ver/17/grails-app/views/api/mailer.gsp
+END

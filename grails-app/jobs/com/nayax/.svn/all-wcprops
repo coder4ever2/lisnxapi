@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samyaa_api/!svn/ver/203/grails-app/jobs/com/nayax
+END
+SendWelcomeEmailJob.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/samyaa_api/!svn/ver/66/grails-app/jobs/com/nayax/SendWelcomeEmailJob.groovy
+END
+PushNotificationJob.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/samyaa_api/!svn/ver/639/grails-app/jobs/com/nayax/PushNotificationJob.groovy
+END
+ThankyouAttendeJob.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/samyaa_api/!svn/ver/28/grails-app/jobs/com/nayax/ThankyouAttendeJob.groovy
+END
+LinkedinDataJob.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/samyaa_api/!svn/ver/627/grails-app/jobs/com/nayax/LinkedinDataJob.groovy
+END
+FacebookDataJob.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/samyaa_api/!svn/ver/476/grails-app/jobs/com/nayax/FacebookDataJob.groovy
+END

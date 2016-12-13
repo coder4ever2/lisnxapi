@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samyaa_api/!svn/ver/207/grails-app/services
+END
+InvitationService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/1/grails-app/services/InvitationService.groovy
+END
+UserService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/samyaa_api/!svn/ver/466/grails-app/services/UserService.groovy
+END
+LinkedinService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/627/grails-app/services/LinkedinService.groovy
+END
+EventbriteService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/samyaa_api/!svn/ver/556/grails-app/services/EventbriteService.groovy
+END
+ViewerService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/samyaa_api/!svn/ver/1/grails-app/services/ViewerService.groovy
+END
+FacebookService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/643/grails-app/services/FacebookService.groovy
+END
+FlickrService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/samyaa_api/!svn/ver/650/grails-app/services/FlickrService.groovy
+END

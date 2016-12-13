@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samyaa_api/!svn/ver/106/src/groovy/nayax/Enum
+END
+SettingType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/samyaa_api/!svn/ver/476/src/groovy/nayax/Enum/SettingType.groovy
+END
+ProfileShareType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/samyaa_api/!svn/ver/1/src/groovy/nayax/Enum/ProfileShareType.groovy
+END
+NConnectionStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/samyaa_api/!svn/ver/35/src/groovy/nayax/Enum/NConnectionStatus.groovy
+END
+INVITATION_CHANNEL.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samyaa_api/!svn/ver/105/src/groovy/nayax/Enum/INVITATION_CHANNEL.groovy
+END

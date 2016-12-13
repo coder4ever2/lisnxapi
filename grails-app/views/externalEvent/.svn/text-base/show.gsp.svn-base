@@ -1,0 +1,188 @@
+
+<%@ page import="nayax.ExternalEvent" %>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="layout" content="main">
+		<g:set var="entityName" value="${message(code: 'externalEvent.label', default: 'ExternalEvent')}" />
+		<title><g:message code="default.show.label" args="[entityName]" /></title>
+	</head>
+	<body>
+		<a href="#show-externalEvent" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
+		<div class="nav" role="navigation">
+			<ul>
+				<li><a class="home" href="${createLink(uri: '/')}"><g:message code="default.home.label"/></a></li>
+				<li><g:link class="list" action="index"><g:message code="default.list.label" args="[entityName]" /></g:link></li>
+				<li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
+			</ul>
+		</div>
+		<div id="show-externalEvent" class="content scaffold-show" role="main">
+			<h1><g:message code="default.show.label" args="[entityName]" /></h1>
+			<g:if test="${flash.message}">
+			<div class="message" role="status">${flash.message}</div>
+			</g:if>
+			<ol class="property-list externalEvent">
+			
+				<g:if test="${externalEventInstance?.eventSource}">
+				<li class="fieldcontain">
+					<span id="eventSource-label" class="property-label"><g:message code="externalEvent.eventSource.label" default="Event Source" /></span>
+					
+						<span class="property-value" aria-labelledby="eventSource-label"><g:fieldValue bean="${externalEventInstance}" field="eventSource"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.dateCreated}">
+				<li class="fieldcontain">
+					<span id="dateCreated-label" class="property-label"><g:message code="externalEvent.dateCreated.label" default="Date Created" /></span>
+					
+						<span class="property-value" aria-labelledby="dateCreated-label"><g:formatDate date="${externalEventInstance?.dateCreated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.lastUpdated}">
+				<li class="fieldcontain">
+					<span id="lastUpdated-label" class="property-label"><g:message code="externalEvent.lastUpdated.label" default="Last Updated" /></span>
+					
+						<span class="property-value" aria-labelledby="lastUpdated-label"><g:formatDate date="${externalEventInstance?.lastUpdated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.eventId}">
+				<li class="fieldcontain">
+					<span id="eventId-label" class="property-label"><g:message code="externalEvent.eventId.label" default="Event Id" /></span>
+					
+						<span class="property-value" aria-labelledby="eventId-label"><g:fieldValue bean="${externalEventInstance}" field="eventId"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.eventName}">
+				<li class="fieldcontain">
+					<span id="eventName-label" class="property-label"><g:message code="externalEvent.eventName.label" default="Event Name" /></span>
+					
+						<span class="property-value" aria-labelledby="eventName-label"><g:fieldValue bean="${externalEventInstance}" field="eventName"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.description}">
+				<li class="fieldcontain">
+					<span id="description-label" class="property-label"><g:message code="externalEvent.description.label" default="Description" /></span>
+					
+						<span class="property-value" aria-labelledby="description-label"><g:fieldValue bean="${externalEventInstance}" field="description"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.locationCoordinate}">
+				<li class="fieldcontain">
+					<span id="locationCoordinate-label" class="property-label"><g:message code="externalEvent.locationCoordinate.label" default="Location Coordinate" /></span>
+					
+						<span class="property-value" aria-labelledby="locationCoordinate-label"><g:link controller="locationCoordinate" action="show" id="${externalEventInstance?.locationCoordinate?.id}">${externalEventInstance?.locationCoordinate?.encodeAsHTML()}</g:link></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.cityState}">
+				<li class="fieldcontain">
+					<span id="cityState-label" class="property-label"><g:message code="externalEvent.cityState.label" default="City State" /></span>
+					
+						<span class="property-value" aria-labelledby="cityState-label"><g:fieldValue bean="${externalEventInstance}" field="cityState"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.eventUrl}">
+				<li class="fieldcontain">
+					<span id="eventUrl-label" class="property-label"><g:message code="externalEvent.eventUrl.label" default="Event Url" /></span>
+					
+						<span class="property-value" aria-labelledby="eventUrl-label"><g:fieldValue bean="${externalEventInstance}" field="eventUrl"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.logoUrl}">
+				<li class="fieldcontain">
+					<span id="logoUrl-label" class="property-label"><g:message code="externalEvent.logoUrl.label" default="Logo Url" /></span>
+					
+						<span class="property-value" aria-labelledby="logoUrl-label"><g:fieldValue bean="${externalEventInstance}" field="logoUrl"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.city}">
+				<li class="fieldcontain">
+					<span id="city-label" class="property-label"><g:message code="externalEvent.city.label" default="City" /></span>
+					
+						<span class="property-value" aria-labelledby="city-label"><g:fieldValue bean="${externalEventInstance}" field="city"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.state}">
+				<li class="fieldcontain">
+					<span id="state-label" class="property-label"><g:message code="externalEvent.state.label" default="State" /></span>
+					
+						<span class="property-value" aria-labelledby="state-label"><g:fieldValue bean="${externalEventInstance}" field="state"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.startDate}">
+				<li class="fieldcontain">
+					<span id="startDate-label" class="property-label"><g:message code="externalEvent.startDate.label" default="Start Date" /></span>
+					
+						<span class="property-value" aria-labelledby="startDate-label"><g:formatDate date="${externalEventInstance?.startDate}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.endDate}">
+				<li class="fieldcontain">
+					<span id="endDate-label" class="property-label"><g:message code="externalEvent.endDate.label" default="End Date" /></span>
+					
+						<span class="property-value" aria-labelledby="endDate-label"><g:formatDate date="${externalEventInstance?.endDate}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.country}">
+				<li class="fieldcontain">
+					<span id="country-label" class="property-label"><g:message code="externalEvent.country.label" default="Country" /></span>
+					
+						<span class="property-value" aria-labelledby="country-label"><g:fieldValue bean="${externalEventInstance}" field="country"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${externalEventInstance?.isGlobal}">
+				<li class="fieldcontain">
+					<span id="isGlobal-label" class="property-label"><g:message code="externalEvent.isGlobal.label" default="Is Global" /></span>
+					
+						<span class="property-value" aria-labelledby="isGlobal-label"><g:formatBoolean boolean="${externalEventInstance?.isGlobal}" /></span>
+					
+				</li>
+				</g:if>
+				
+				<g:if test="${externalEventInstance?.isActive}">
+				<li class="fieldcontain">
+					<span id="isActive-label" class="property-label"><g:message code="externalEvent.isActive.label" default="Is Active" /></span>
+					
+						<span class="property-value" aria-labelledby="isActive-label"><g:formatBoolean boolean="${externalEventInstance?.isActive}" /></span>
+					
+				</li>
+				</g:if>
+			
+			</ol>
+			<g:form url="[resource:externalEventInstance, action:'delete']" method="DELETE">
+				<fieldset class="buttons">
+					<g:link class="edit" action="edit" resource="${externalEventInstance}"><g:message code="default.button.edit.label" default="Edit" /></g:link>
+					<g:actionSubmit class="delete" action="delete" value="${message(code: 'default.button.delete.label', default: 'Delete')}" onclick="return confirm('${message(code: 'default.button.delete.confirm.message', default: 'Are you sure?')}');" />
+				</fieldset>
+			</g:form>
+		</div>
+	</body>
+</html>

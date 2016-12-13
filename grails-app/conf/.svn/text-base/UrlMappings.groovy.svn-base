@@ -1,0 +1,17 @@
+class UrlMappings {
+
+	static mappings = {
+		"/$controller/$action?/$id?"{
+			constraints {
+				// apply constraints here
+			}
+		}
+
+		"/"(controller: "api", action: "promo")
+		
+		"/vlc"(view:"/vlc-p1")
+		"500"(view:'/error')
+		
+		"/promo" (controller: "api", action: "promo")
+	}
+}

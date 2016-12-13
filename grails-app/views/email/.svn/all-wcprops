@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samyaa_api/!svn/ver/231/grails-app/views/email
+END
+messageToLISN.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/18/grails-app/views/email/messageToLISN.gsp
+END
+simpleEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/samyaa_api/!svn/ver/194/grails-app/views/email/simpleEmail.gsp
+END
+welcomeEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/samyaa_api/!svn/ver/102/grails-app/views/email/welcomeEmail.gsp
+END
+email.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/samyaa_api/!svn/ver/194/grails-app/views/email/email.gsp
+END
+promoEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/samyaa_api/!svn/ver/298/grails-app/views/email/promoEmail.gsp
+END
+HappyValentines.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/490/grails-app/views/email/HappyValentines.gsp
+END
+inviteMore.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/samyaa_api/!svn/ver/194/grails-app/views/email/inviteMore.gsp
+END
+happyNewYearEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/samyaa_api/!svn/ver/435/grails-app/views/email/happyNewYearEmail.gsp
+END
+update2_6.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/samyaa_api/!svn/ver/581/grails-app/views/email/update2_6.gsp
+END
+_inviteTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/samyaa_api/!svn/ver/194/grails-app/views/email/_inviteTemplate.gsp
+END
+updateEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/samyaa_api/!svn/ver/231/grails-app/views/email/updateEmail.gsp
+END
+externalConnectionRequestEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/samyaa_api/!svn/ver/20/grails-app/views/email/externalConnectionRequestEmail.gsp
+END

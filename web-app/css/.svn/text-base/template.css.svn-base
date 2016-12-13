@@ -1,0 +1,186 @@
+#bodyBackground{ background:url(../images/site-bg.jpg) center top no-repeat; bottom: 0; left: 0; position: fixed; right: 0; top: 0; z-index: -1;}
+.navbar-default{ background:none; padding-bottom:14px;}
+.navbar-brand{ padding:22px 0 0 25px; height:66px;}
+.nav.navbar-nav.navbar-left { padding:0 30px;}
+.navbar-nav > li > a{ padding-top:32px; font-weight:300;}
+.navbar-default .navbar-nav > li > a:focus{ color:#fff;}
+.navbar-default .navbar-nav > li > a:hover{ color:#0090d4;}
+
+.topPart{ padding:80px 0 100px;}
+.topPart .mobile {
+padding: 120px 36px 92px 40px;
+width: 294px;
+height: 577px;
+background: url(../images/iPhone.png) no-repeat;
+margin-left: 185px;
+float: left;
+background-size: cover;
+}
+.topPart .textPart{ width:540px; padding:63px 70px 0 0; float:right; transform: scale(.7);
+transform-origin: 0 0;}
+.topPart .textPart h1{ font-size:60px; line-height:55px; padding:0 0 55px; margin:0; color:#fff; font-weight:normal;}
+.topPart .textPart h1 span{ font-size:47px;}
+.topPart .textPart ul.point{ padding:0 0 50px}
+.topPart .textPart ul.point li{ display:block; height:108px; font-size:22px; line-height:28px; padding:26px 0 26px 121px; color:#fff;}
+.topPart .textPart ul.point li.icon1{ background:url(../images/home-icon1.png) 5px center no-repeat;}
+.topPart .textPart ul.point li.icon2{ background:url(../images/home-icon2.png) 5px center no-repeat;}
+.topPart .textPart ul.point li.icon3{ background:url(../images/home-icon3.png) 5px center no-repeat;}
+.topPart .textPart a.applestore{ padding-left:20px; float:left;}
+.topPart .textPart a.playstore{ float:left;}
+
+.explore{ padding:100px 0 156px;}
+.explore .ipad {
+padding: 56px 23px 57px;
+width: 371px;
+height: 544px;
+background: url(../images/iPad.png) no-repeat;
+margin-right: 185px;
+float: right;
+position: relative;
+background-size: cover;}
+.explore .textPart{ width:450px; margin:0 0 0 85px; float:left; transform: scale(0.7);
+transform-origin: 50% 0;}
+.explore .textPart h1{ font-size:44px; line-height:61px; padding:67px 0 15px; margin:0; color:#fff; font-weight:normal;}
+.explore .textPart p{ font-size:24px; line-height:36px; padding:0 0 15px; margin:0; color:#fff; font-weight:normal;}
+
+.blog{ padding:100px 0 56px;}
+.blog .post{ padding-bottom:56px;}
+.blog h2{ font-size:30px; line-height:42px; padding:0 0 15px; margin:0; color:#fff; font-weight:400;}
+.blog p{ font-size:17px; line-height:24px; padding:0 0 15px; margin:0; color:#fff; font-weight:normal;}
+.blog .downloadLink{ background:url(../images/buttonBg.png) repeat-x; font-size:20px; line-height:59px; border-radius:4px; color:#fff; font-weight:700; display:inline-block; margin:40px 0 10px; padding:0 20px;}
+
+.about{ padding:80px 0 50px;}
+.about .video{padding:0; width:650px; height:454px; background:#000; margin-left:70px; float:left; position:relative; overflow:hidden;}
+.about .textPart{ width:334px; margin:0 50px 0 0; float:right}
+.about .textPart h1{ font-size:30px; line-height:42px; padding:0 0 30px; margin:0; color:#fff; font-weight:normal;}
+.about .textPart p{ font-size:16px; line-height:24px; padding:0 0 15px; margin:0; color:#fff; font-weight:normal;}
+
+p.copy{ font-size:14px; line-height:19px; color:#fff; text-align:center; font-weight:300; clear:both; padding-top:60px}
+p.copy a{ color:#fff; text-decoration:none;}
+p.copy a:hover{ color:#00adff;}
+#photo-credit{ position:fixed; left:10px; bottom:10px; color:#fff; font-size:16px;}
+
+#photo-credit a{ color:#fff; text-decoration:none;}
+#sohp-downloads { bottom: 12px; position: fixed; right: 0; z-index: 6;}
+.sohp-ios { background-image: url(../images/appstore.png); background-size: contain; display: inline-block; height: 31px; margin-left: 1em;  margin-right: 1.5em; overflow: hidden; width: 25px;}
+.sohp-android { background-image:url(../images/playstore.png); background-size: contain; display: inline-block; height: 31px; margin-right: 1.5em; overflow: hidden; width: 28px;}
+.sohp-arrow-up { background-image:url(../images/up.png); margin-top: 1em; top:10px;}
+.sohp-arrow-down { background-image: url(../images/down.png); bottom:10px;}
+.sohp-arrow-down, .sohp-arrow-up { background-position: 0 0; background-repeat: no-repeat; background-size: contain; display: inline-block; height: 16px; line-height: 5em; overflow: hidden; width: 44px; position:fixed; left:50%; margin-left:-22px; z-index:100000; cursor:pointer; opacity:0.8;}
+.sohp-arrow-down:hover, .sohp-arrow-up:hover{ opacity:1}
+
+.mobile .bx-wrapper .bx-pager{ display:none;}
+#bx-pager { position: absolute;
+left: -463px;
+top: 219px;
+width: 425px;}
+#bx-pager .thumbnails { border: 2px solid #000; float: left; margin: 4px 4px 0 0;}
+#bx-pager .thumbnails.active{ border-color:#00F;}
+#bx-pager img{ display:block;}
+
+.PromoShare{ padding:0px 190px 100px; float: left;}
+.PromoShare .iphone{ width:662px; height:320px; background:url(../images/promoiPhone.png) no-repeat; margin:0 auto;}
+.PromoShare h3{ font-weight:300; color:#fff; font-size:20px; line-height:42px; text-align:center; padding:0;}
+.PromoShare h3 span{ font-size:36px; font-weight:700;}
+
+
+.PromoPart{ padding:80px 0 100px;}
+.PromoPart h2{ font-weight:300; color:#fff; font-size:36px; line-height:42px; text-align:center; max-width:750px; margin:0 auto; padding:0 0 20px;}
+.PromoPart .iphone{ width:662px; height:320px; background:url(../images/promoiPhone.png) no-repeat; margin:0 auto;}
+.PromoPart h3{ font-weight:300; color:#fff; font-size:20px; line-height:42px; text-align:center; padding:0;}
+.PromoPart h3 span{ font-size:36px; font-weight:700;}
+.PromoPart .iphone h3{ padding:37px 0 18px; font-weight:400; color:#fff; font-size:20px; line-height:20px; text-align:center;}
+.PromoPart .iphone h3.type4{ color:#d4b9ff;}
+.PromoPart .iphone ul{ display:block; float:left; margin-left:125px;}
+.PromoPart .iphone ul li{ display:block; float:left; font-size:15px; line-height:31px; color:#fff; font-weight:400; padding:0 6px;}
+.PromoPart .iphone ul li.active{ font-weight:800;}
+.PromoPart .iphone ul li.type1{ background:url(../images/type1.png) repeat-x; border-radius:2px 0 0 2px;}
+.PromoPart .iphone ul li.type2{ background:url(../images/type2.png) repeat-x;}
+.PromoPart .iphone ul li.type3{ background:url(../images/type3.png) repeat-x;}
+.PromoPart .iphone ul li.type4{ background:url(../images/type4.png) repeat-x; border-radius:0 2px 2px 0;}
+.PromoPart .iphone .picCont{ width:108px; height:108px; position:relative; float:left; clear:both; margin:44px 0 0 273px;}
+.PromoPart .iphone .picCont .picBG{ position:absolute; left:-23px; top:-23px;}
+.PromoPart .iphone .picText {
+    color: #ffffff;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 47px 0 0 44px;
+    width: 130px;
+}
+.PromoPart .iphone .picText a{ display:block; line-height:27px; font-weight:700; text-transform:uppercase; border-radius:4px; padding:0 12px; background:url(../images/pbtn.png) repeat-x; color:#fff; float:left; margin-top:6px;}
+@media (min-width: 991px) and (max-width: 1200px) {
+	.topPart .mobile, .explore .textPart, .explore .ipad{margin:0;}
+	.topPart .textPart { float: right; padding: 63px 0 0; width: 470px;}
+	.about .textPart{ margin:0; width:304px;}
+	.about .video{margin:0; width:610px;}
+}
+@media (min-width: 768px) and (max-width: 990px) {
+	.topPart, .explore{ padding: 0 0 100px;}
+	.topPart .mobile{margin:0 auto; float:none;}
+	.topPart .textPart { float: none; padding: 63px 0 0; width: 470px; margin:0 auto;}
+	.explore .textPart{margin:0 auto 100px; float:none; width:90%;}
+	.explore .ipad{margin:0 auto; float:none;}
+	.blog, .about{ padding: 100px 0;}
+	.blog{ width:90%; margin:0 auto;}
+	.about .textPart{ margin:0 auto; width:90%; float:none;}
+	.about .video{margin:0 auto 100px; width:650px; float:none;}
+	#bx-pager, .sohp-arrow-down, .sohp-arrow-up{ display:none !important;}
+	.positionCircle { display:none;}
+}
+@media (min-width: 320px) and (max-width: 767px) {
+	.navbar-default{ background:#2c3e50; padding-bottom:0px;}
+	.navbar-brand { height: 60px; padding: 9px 0 0 25px;}
+	.navbar-nav > li:hover{ background:#1a242f;}
+	.navbar-nav > li > a{ padding-top:10px;}
+	.topPart { padding: 80px 0 0;}
+	.topPart .mobile { background: url("../images/iPhone.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0); float: none; height: 566px; margin: 0 auto; padding: 119px 37px 90px 39px; width: 290px;}
+	.topPart .textPart { float: none; margin: 0 auto; padding: 63px 0 0; width: 100%;}
+	.topPart .textPart h1{ font-size:38px; line-height:35px; text-align:center;}
+	.topPart .textPart h1 span { font-size: 26px; display:block;}
+	.topPart .textPart ul.point li { background-size: 60px auto !important; color: #ffffff; display: block; font-size: 18px; height: 108px; line-height: 22px; padding: 19px 0 16px 81px;}
+	.topPart .textPart a.applestore { display: block; float: none; margin: 0 auto 15px; padding-left: 0; width: 188px;}
+	.topPart .textPart a.playstore { display: block; float: none; margin: 0 auto; width: 188px;}
+	.explore { padding: 50px 0 50px;}
+	.explore .textPart{margin:0 auto 100px; float:none; width:90%;}
+	.explore .textPart h1{ font-size:38px; line-height:35px;}
+	.explore .textPart p{ font-size: 18px; line-height: 22px;}
+	.explore .ipad { background: url("../images/iPad.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0); float: none; height: 426px; margin: 0 auto; padding: 43px 18px 45px; width: 290px;}
+	.blog{ padding:104px 0 30px; width:90%; margin:0 auto;}
+	.blog h2{ font-size:38px; line-height:55px;}
+	.blog p{ font-size: 18px; line-height: 22px;}
+	.blog .downloadLink{ font-size:15px;}
+	.about{ padding:119px 0 100px;}
+	.about .textPart{ margin:0 auto; width:90%; float:none;}
+	.about .video{margin:0 auto 40px; width:90%; height:200px; float:none;}
+	.about .textPart h1{ font-size:38px; line-height:35px;}
+	.about .textPart p{ font-size: 18px; line-height: 22px;}
+	p.copy{ padding-top:70px;}
+	#bx-pager, .sohp-arrow-down, .sohp-arrow-up{ display:none !important;}
+	.positionCircle { display:none;}
+	
+	.PromoPart .mobile{ margin-left:-16px;}
+	.PromoPart .iphone h3 { padding: 97px 30px 18px;}
+	.PromoPart .iphone ul{ margin-left:40px;}
+	.PromoPart .iphone ul li{ clear:both; margin:5px 0; border-radius:2px !important;}
+	.PromoPart .iphone .picCont{ margin:33px 0 0 113px;}
+	.PromoPart .iphone .picText{ width:235px;}
+}
+@media (min-width: 991px) {
+  .positionCircle { position:fixed; top:50%; right:20px; margin-top:-50px;}
+  .positionCircle li { list-style:none;}
+  .positionCircle li a{ display:block; background:#fff; width:8px; height:8px; margin-bottom:20px; border-radius:10px; padding:0;}
+  .positionCircle li.active a{ width:16px; height:16px; margin-left:-4px;}
+}
+.spinner {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px; /* half width of the spinner gif */
+    margin-top: -50px; /* half height of the spinner gif */
+    text-align:center;
+    z-index:1234;
+    overflow: auto;
+    width: 100px; /* width of the spinner gif */
+    height: 102px; /*hight of the spinner gif +2px to fix IE8 issue */
+}
